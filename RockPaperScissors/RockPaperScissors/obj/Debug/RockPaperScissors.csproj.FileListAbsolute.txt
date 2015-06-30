@@ -1,0 +1,105 @@
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\RockPaperScissors.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\RockPaperScissors.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Antlr3.Runtime.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.AspNet.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.Core.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\EntityFramework.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Microsoft.Web.Infrastructure.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\System.Web.Optimization.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\System.Web.Providers.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\WebGrease.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\EntityFramework.xml
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.Core.xml
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.xml
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.xml
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.AspNet.xml
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.dll
+c:\users\usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\Usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Newtonsoft.Json.xml
+G:\RockPaperScissors\RockPaperScissors\bin\RockPaperScissors.dll
+G:\RockPaperScissors\RockPaperScissors\bin\RockPaperScissors.pdb
+G:\RockPaperScissors\RockPaperScissors\bin\Antlr3.Runtime.dll
+G:\RockPaperScissors\RockPaperScissors\bin\AspNet.ScriptManager.jQuery.dll
+G:\RockPaperScissors\RockPaperScissors\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.AspNet.dll
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.Core.dll
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.dll
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.dll
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\RockPaperScissors\RockPaperScissors\bin\EntityFramework.dll
+G:\RockPaperScissors\RockPaperScissors\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+G:\RockPaperScissors\RockPaperScissors\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\RockPaperScissors\RockPaperScissors\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\RockPaperScissors\RockPaperScissors\bin\Microsoft.ScriptManager.WebForms.dll
+G:\RockPaperScissors\RockPaperScissors\bin\Microsoft.Web.Infrastructure.dll
+G:\RockPaperScissors\RockPaperScissors\bin\Newtonsoft.Json.dll
+G:\RockPaperScissors\RockPaperScissors\bin\System.Web.Optimization.dll
+G:\RockPaperScissors\RockPaperScissors\bin\System.Web.Providers.dll
+G:\RockPaperScissors\RockPaperScissors\bin\WebGrease.dll
+G:\RockPaperScissors\RockPaperScissors\bin\Newtonsoft.Json.xml
+G:\RockPaperScissors\RockPaperScissors\bin\EntityFramework.xml
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.Core.xml
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.xml
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.xml
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.AspNet.xml
+G:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+G:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.dll
+G:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+E:\RockPaperScissors\RockPaperScissors\bin\RockPaperScissors.dll
+E:\RockPaperScissors\RockPaperScissors\bin\RockPaperScissors.pdb
+E:\RockPaperScissors\RockPaperScissors\bin\Antlr3.Runtime.dll
+E:\RockPaperScissors\RockPaperScissors\bin\AspNet.ScriptManager.jQuery.dll
+E:\RockPaperScissors\RockPaperScissors\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\RockPaperScissors\RockPaperScissors\bin\Common.Logging.dll
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.AspNet.dll
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.Core.dll
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.dll
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.dll
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\RockPaperScissors\RockPaperScissors\bin\EntityFramework.dll
+E:\RockPaperScissors\RockPaperScissors\bin\GithubNugetDistributor.exe
+E:\RockPaperScissors\RockPaperScissors\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\RockPaperScissors\RockPaperScissors\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\RockPaperScissors\RockPaperScissors\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\RockPaperScissors\RockPaperScissors\bin\Microsoft.ScriptManager.WebForms.dll
+E:\RockPaperScissors\RockPaperScissors\bin\Microsoft.Web.Infrastructure.dll
+E:\RockPaperScissors\RockPaperScissors\bin\Newtonsoft.Json.dll
+E:\RockPaperScissors\RockPaperScissors\bin\Octokit.dll
+E:\RockPaperScissors\RockPaperScissors\bin\Spring.Rest.dll
+E:\RockPaperScissors\RockPaperScissors\bin\Spring.Social.Core.dll
+E:\RockPaperScissors\RockPaperScissors\bin\System.Web.Optimization.dll
+E:\RockPaperScissors\RockPaperScissors\bin\System.Web.Providers.dll
+E:\RockPaperScissors\RockPaperScissors\bin\WebGrease.dll
+E:\RockPaperScissors\RockPaperScissors\bin\Newtonsoft.Json.xml
+E:\RockPaperScissors\RockPaperScissors\bin\Spring.Rest.pdb
+E:\RockPaperScissors\RockPaperScissors\bin\Spring.Rest.xml
+E:\RockPaperScissors\RockPaperScissors\bin\Spring.Social.Core.pdb
+E:\RockPaperScissors\RockPaperScissors\bin\Spring.Social.Core.xml
+E:\RockPaperScissors\RockPaperScissors\bin\EntityFramework.xml
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.Core.xml
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.xml
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.xml
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\RockPaperScissors\RockPaperScissors\bin\DotNetOpenAuth.AspNet.xml
+E:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+E:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.dll
+E:\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
